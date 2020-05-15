@@ -1,8 +1,8 @@
 ---
 date: 
 description: "Industria 4.0"
-featured_image: "image/4.jpg"
-tags: []
+featured_image: "/images/ecuador40.jpg"
+tags: ["scene"]
 title: "Chapter V: Industria 4.0 en Ecuador"
 ---
 

@@ -1,8 +1,8 @@
 ---
 date: 
 description: "La Cuarta Revolución es Digital"
-featured_image: "/images/5.png"
-tags: []
+featured_image: "/images/revolucion40.jpg"
+tags: ["scene"]
 title: "Chapter VI: La Cuarta Revolución es Digital"
 disable_share: false
 ---
