@@ -3,7 +3,7 @@ date: 2020-05-09T10:58:08-04:00
 description: "Pilares Tecnológicos de la Industria 4.0"
 featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
 tags: ["scene"]
-title: "Pilares Tecnológicos de la Industria 4.0"
+title: "Chapter III: Pilares Tecnológicos de la Industria 4.0"
 ---
 
 - Internet of Things o Internet de las Cosas: No solo los ordenadores están conectados a la red, sino que máquinas, dispositivos y objetos cotidianos nos ofrecen información y datos relevantes para un análisis posterior.
