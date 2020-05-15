@@ -6,20 +6,10 @@
     <description>Recent content in Blog on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 May 2020 00:58:08 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2020 10:58:08 -0400</lastBuildDate>
     
 	<atom:link href="https://omarmorejon.github.io/static_website_ananke/post/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Chapter IV: Ventajas de la Industria 4.0</title>
-      <link>https://omarmorejon.github.io/static_website_ananke/post/chapter-4/</link>
-      <pubDate>Fri, 15 May 2020 00:58:08 -0400</pubDate>
-      
-      <guid>https://omarmorejon.github.io/static_website_ananke/post/chapter-4/</guid>
-      <description>Ventajas
-  La principal ventaja de implementar este nuevo sistema está en que la empresa va a conseguir producir más a unos costes menores y optimizando en cada momento según la disponibilidad de recursos. Este aspecto es importante porque, así, se pueden mejorar los resultados a medio plazo y se evitan situaciones funestas como la rotura de stocks. Es un lugar común que, en el momento en que una empresa asume la automatización de un proceso, ya no hay vuelta atrás.</description>
-    </item>
     
     <item>
       <title>Chapter I: Origenes de la Industria 4.0</title>
@@ -64,6 +54,16 @@
       
       <guid>https://omarmorejon.github.io/static_website_ananke/post/chapter-2/</guid>
       <description>La llegada de nuevas tecnologías con la industria 4.0 no implica necesariamente que la industria tenga que deshacerse de las tecnologías que dieron lugar a la tercera. Esto es, de la automatización de ciertos procesos y del empleo de determinadas tecnologías. Más bien lo que conlleva es la unión de estas con las propias de la cuarta, relacionadas prácticamente todas con la robótica y la inteligencia artificial, y también con el Big Data.</description>
+    </item>
+    
+    <item>
+      <title>Chapter IV: Ventajas e Inconvemientes de la Industria 4.0</title>
+      <link>https://omarmorejon.github.io/static_website_ananke/post/chapter-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://omarmorejon.github.io/static_website_ananke/post/chapter-4/</guid>
+      <description>Ventajas
+  La principal ventaja de implementar este nuevo sistema está en que la empresa va a conseguir producir más a unos costes menores y optimizando en cada momento según la disponibilidad de recursos. Este aspecto es importante porque, así, se pueden mejorar los resultados a medio plazo y se evitan situaciones funestas como la rotura de stocks. Es un lugar común que, en el momento en que una empresa asume la automatización de un proceso, ya no hay vuelta atrás.</description>
     </item>
     
   </channel>
