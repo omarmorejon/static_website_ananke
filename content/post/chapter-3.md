@@ -1,5 +1,5 @@
 ---
-date: 2020-05-13T10:58:08-04:00
+date: 2020-05-15T10:58:07-58:00
 description: "Pilares Tecnológicos de la Industria 4.0"
 featured_image: "/images/pilares_industria.jpg"
 tags: ["scene"]
