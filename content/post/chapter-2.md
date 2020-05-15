@@ -2,7 +2,7 @@
 date: 2020-05-15T11:00:59-04:00
 description: "Características de la Industria 4.0"
 featured_image: ""
-tags: []
+tags: ["scene"]
 title: "Chapter II: Características de la Industria 4.0"
 ---
 
