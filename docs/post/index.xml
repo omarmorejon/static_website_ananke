@@ -6,41 +6,12 @@
     <description>Recent content in Blog on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-<<<<<<< HEAD
     <lastBuildDate>Fri, 15 May 2020 10:58:08 -0400</lastBuildDate>
-=======
-<<<<<<< HEAD
-    <lastBuildDate>Sat, 09 May 2020 10:58:08 -0400</lastBuildDate>
-=======
-    <lastBuildDate>Fri, 15 May 2020 11:00:59 -0400</lastBuildDate>
->>>>>>> 530f3b73fa715471be857372df88f3a866c13387
->>>>>>> 26856e8e21ab66fb9ffa1d7c84c775719d7cc568
     
 	<atom:link href="https://omarmorejon.github.io/static_website_ananke/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-      <title>Chapter IV: Ventajas e Inconvemientes de la Industria 4.0</title>
-      <link>https://omarmorejon.github.io/static_website_ananke/post/chapter-4/</link>
-      <pubDate>Fri, 15 May 2020 00:58:08 -0400</pubDate>
-=======
-      <title>Chapter II: Características de la Industria 4.0</title>
-      <link>https://omarmorejon.github.io/static_website_ananke/post/chapter-2/</link>
-      <pubDate>Fri, 15 May 2020 11:00:59 -0400</pubDate>
->>>>>>> 530f3b73fa715471be857372df88f3a866c13387
-      
-      <guid>https://omarmorejon.github.io/static_website_ananke/post/chapter-2/</guid>
-      <description>La llegada de nuevas tecnologías con la industria 4.0 no implica necesariamente que la industria tenga que deshacerse de las tecnologías que dieron lugar a la tercera. Esto es, de la automatización de ciertos procesos y del empleo de determinadas tecnologías. Más bien lo que conlleva es la unión de estas con las propias de la cuarta, relacionadas prácticamente todas con la robótica y la inteligencia artificial, y también con el Big Data.</description>
-    </item>
-    
-    <item>
->>>>>>> 984db09bf85e1c03b502527f3d56d63d46f5221c
->>>>>>> 26856e8e21ab66fb9ffa1d7c84c775719d7cc568
       <title>Chapter I: Origenes de la Industria 4.0</title>
       <link>https://omarmorejon.github.io/static_website_ananke/post/chapter-1/</link>
       <pubDate>Fri, 15 May 2020 10:58:08 -0400</pubDate>
@@ -52,28 +23,10 @@
     <item>
       <title>Chapter II: Características de la Industria 4.0</title>
       <link>https://omarmorejon.github.io/static_website_ananke/post/chapter-2/</link>
-      <pubDate>Thu, 14 May 2020 11:00:59 -0400</pubDate>
+      <pubDate>Fri, 15 May 2020 11:00:08 +0000</pubDate>
       
       <guid>https://omarmorejon.github.io/static_website_ananke/post/chapter-2/</guid>
       <description>La llegada de nuevas tecnologías con la industria 4.0 no implica necesariamente que la industria tenga que deshacerse de las tecnologías que dieron lugar a la tercera. Esto es, de la automatización de ciertos procesos y del empleo de determinadas tecnologías. Más bien lo que conlleva es la unión de estas con las propias de la cuarta, relacionadas prácticamente todas con la robótica y la inteligencia artificial, y también con el Big Data.</description>
-    </item>
-    
-    <item>
-      <title>Chapter III: Pilares Tecnológicos de la Industria 4.0</title>
-      <link>https://omarmorejon.github.io/static_website_ananke/post/chapter-3/</link>
-      <pubDate>Wed, 13 May 2020 10:58:08 -0400</pubDate>
-      
-      <guid>https://omarmorejon.github.io/static_website_ananke/post/chapter-3/</guid>
-      <description>Internet of Things o Internet de las Cosas: No solo los ordenadores están conectados a la red, sino que máquinas, dispositivos y objetos cotidianos nos ofrecen información y datos relevantes para un análisis posterior. Robótica avanzada y la inteligencia artificial: Máquinas creadas con el propósito de automatizar tareas, toma de decisiones e incluso aprendizaje, intentando emular el pensamiento lógico del ser humano. Sistemas para la integración vertical y horizontal: Seleccionando cada empresa una implementación interna de un servicio o proceso (vertical) o integrándose en mecanismos de cooperación u outsourcing (horizontal) Comunicación M2M(Machine to Machine): Gracias a diversas tecnologías, las máquinas se comunican intercambiando información y pudiendo realizar acciones eficientes sin la intervención humana.</description>
-    </item>
-    
-    <item>
-      <title>Chapter IV: Ventajas e Inconvemientes de la Industria 4.0</title>
-      <link>https://omarmorejon.github.io/static_website_ananke/post/chapter-4/</link>
-      <pubDate>Tue, 12 May 2020 00:58:08 -0400</pubDate>
-      
-      <guid>https://omarmorejon.github.io/static_website_ananke/post/chapter-4/</guid>
-      <description>Ventajas   La principal ventaja de implementar este nuevo sistema está en que la empresa va a conseguir producir más a unos costes menores y optimizando en cada momento según la disponibilidad de recursos. Este aspecto es importante porque, así, se pueden mejorar los resultados a medio plazo y se evitan situaciones funestas como la rotura de stocks. Es un lugar común que, en el momento en que una empresa asume la automatización de un proceso, ya no hay vuelta atrás.</description>
     </item>
     
     <item>
@@ -92,16 +45,6 @@
       
       <guid>https://omarmorejon.github.io/static_website_ananke/post/chapter-6/</guid>
       <description>We are delighted to be able to inform the reader, that during the whole of this scene, Gringoire and his piece had stood firm. His actors, spurred on by him, had not ceased to spout his comedy, and he had not ceased to listen to it. He had made up his mind about the tumult, and was determined to proceed to the end, not giving up the hope of a return of attention on the part of the public.</description>
-    </item>
-    
-    <item>
-      <title>Chapter IV: Ventajas e Inconvemientes de la Industria 4.0</title>
-      <link>https://omarmorejon.github.io/static_website_ananke/post/chapter-4/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://omarmorejon.github.io/static_website_ananke/post/chapter-4/</guid>
-      <description>Ventajas
-  La principal ventaja de implementar este nuevo sistema está en que la empresa va a conseguir producir más a unos costes menores y optimizando en cada momento según la disponibilidad de recursos. Este aspecto es importante porque, así, se pueden mejorar los resultados a medio plazo y se evitan situaciones funestas como la rotura de stocks. Es un lugar común que, en el momento en que una empresa asume la automatización de un proceso, ya no hay vuelta atrás.</description>
     </item>
     
   </channel>

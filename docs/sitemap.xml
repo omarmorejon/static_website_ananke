@@ -4,96 +4,42 @@
   
   <url>
     <loc>https://omarmorejon.github.io/static_website_ananke/post/</loc>
-<<<<<<< HEAD
     <lastmod>2020-05-15T10:58:08-04:00</lastmod>
-=======
-<<<<<<< HEAD
-    <lastmod>2020-05-09T10:58:08-04:00</lastmod>
-=======
-    <lastmod>2020-05-15T11:00:59-04:00</lastmod>
->>>>>>> 26856e8e21ab66fb9ffa1d7c84c775719d7cc568
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>https://omarmorejon.github.io/static_website_ananke/post/chapter-1/</loc>
     <lastmod>2020-05-15T10:58:08-04:00</lastmod>
-=======
-    <loc>https://omarmorejon.github.io/static_website_ananke/post/chapter-2/</loc>
-    <lastmod>2020-05-15T11:00:59-04:00</lastmod>
->>>>>>> 530f3b73fa715471be857372df88f3a866c13387
->>>>>>> 26856e8e21ab66fb9ffa1d7c84c775719d7cc568
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-<<<<<<< HEAD
-    <loc>https://omarmorejon.github.io/static_website_ananke/post/chapter-1/</loc>
-    <lastmod>2020-05-09T10:58:08-04:00</lastmod>
-=======
     <loc>https://omarmorejon.github.io/static_website_ananke/</loc>
-<<<<<<< HEAD
     <lastmod>2020-05-15T10:58:08-04:00</lastmod>
-=======
-    <lastmod>2020-05-15T11:00:59-04:00</lastmod>
->>>>>>> 530f3b73fa715471be857372df88f3a866c13387
->>>>>>> 26856e8e21ab66fb9ffa1d7c84c775719d7cc568
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>https://omarmorejon.github.io/static_website_ananke/tags/scene/</loc>
     <lastmod>2020-05-15T10:58:08-04:00</lastmod>
-=======
-<<<<<<< HEAD
-    <loc>https://omarmorejon.github.io/static_website_ananke/post/chapter-3/</loc>
-=======
-    <loc>https://omarmorejon.github.io/static_website_ananke/post/chapter-1/</loc>
->>>>>>> 530f3b73fa715471be857372df88f3a866c13387
-    <lastmod>2020-05-09T10:58:08-04:00</lastmod>
->>>>>>> 26856e8e21ab66fb9ffa1d7c84c775719d7cc568
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>https://omarmorejon.github.io/static_website_ananke/tags/</loc>
     <lastmod>2020-05-15T10:58:08-04:00</lastmod>
-=======
-<<<<<<< HEAD
-    <loc>https://omarmorejon.github.io/static_website_ananke/</loc>
-=======
-    <loc>https://omarmorejon.github.io/static_website_ananke/post/chapter-3/</loc>
->>>>>>> 530f3b73fa715471be857372df88f3a866c13387
-    <lastmod>2020-05-09T10:58:08-04:00</lastmod>
->>>>>>> 26856e8e21ab66fb9ffa1d7c84c775719d7cc568
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://omarmorejon.github.io/static_website_ananke/post/chapter-2/</loc>
-    <lastmod>2020-05-14T11:00:59-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://omarmorejon.github.io/static_website_ananke/post/chapter-3/</loc>
-    <lastmod>2020-05-13T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://omarmorejon.github.io/static_website_ananke/post/chapter-4/</loc>
-    <lastmod>2020-05-12T00:58:08-04:00</lastmod>
+    <lastmod>2020-05-15T11:00:08+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -120,12 +66,6 @@
   
   <url>
     <loc>https://omarmorejon.github.io/static_website_ananke/categories/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://omarmorejon.github.io/static_website_ananke/post/chapter-4/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
