@@ -1,13 +1,13 @@
 ---
 date: 2017-04-10T11:00:59-04:00
-description: "Pierre Gringoire"
+description: "Características de la Industria 4.0"
 featured_image: ""
 tags: []
-title: "Chapter II: Orígen"
+title: "Chapter II: Características de la Industria 4.0"
 ---
 
-Este concepto de Industria 4.0 expresa la idea de que el mundo se encuentra en los prolegómenos de lo que podría llamarse Cuarta Revolución Industrial (o sea, en una fecha próxima a un hito importante en el desarrollo industrial, que justifique decir que se ha iniciado una nueva fase o una nueva etapa).4​ Después del desarrollo de la máquina de vapor y de la mecanización (segunda mitad del siglo XVIII), después del desarrollo de la electricidad con fines domésticos e industriales (fin del siglo XIX), y después de la automatización (siglo XX), la nueva etapa (cuarta etapa) de la transformación industrial muy posiblemente estará sustentada en la llamada fábrica inteligente, caracterizada por la interconexión de máquinas y de sistemas en el propio emplazamiento de producción, y caracterizada por un fluido intercambio de información con el exterior (con el nivel de oferta y demanda de los mercados, y/o con los clientes, y/o los competidores, y/o con otras fábricas inteligentes, etc).19​
+La llegada de nuevas tecnologías con la industria 4.0 no implica necesariamente que la industria tenga que deshacerse de las tecnologías que dieron lugar a la tercera. Esto es, de la automatización de ciertos procesos y del empleo de determinadas tecnologías. Más bien lo que conlleva es la unión de estas con las propias de la cuarta, relacionadas prácticamente todas con la robótica y la inteligencia artificial, y también con el Big Data. Esta es una de sus características: el aprovechamiento de las tecnologías previas. Pero hay más.
 
-Este concepto de nueva estructuración industrial o Industria 4.0, fue manejado por primera vez en la Feria de Hannover (salón de la tecnología industrial) en el año 2011.20​ Y en la misma feria pero en el año 2013, un pormenorizado informe detallando este concepto y sus implicaciones, también fue presentado y defendido por un selecto grupo de trabajo e investigación.21​22​
+Otra de sus principales características es la interconexión de todos los sistemas de la industria. Además, también están interconectados con la dirección de la empresa y sus trabajadores. Y también ofrecen conexión a proveedores o clientes. Todo gracias a Internet de las Cosas y al Cloud Computing. Además, los sensores instalados en las máquinas de las fábricas capturan todo tipo de información, que se recopila y analiza. A partir de los resultados de estos análisis se pueden tomar decisiones para optimizar la producción y mejorar.
 
-La evolución de los ámbitos del consumo, su creciente demanda de consumo y la continua búsqueda de innovación, son elementos esenciales en el modelo de negocio industrial llamado 4.0, guiado en herramientas tecnológicas y digitales. La Revolución Industrial 4.0 ha sido el eje principal para lograr una implementación tecnológica en este sector. Se basa en la tecnología IoT, Big Data, robótica, IA, entre otros más, permite que los procesos seas más óptimos y eficientes para impulsar una mayor productividad.
+Por otro lado, todo lo que sucede en una industria que ha abrazado la transformación digital se caracteriza por realizarse en tiempo real: la recopilación de datos, su análisis, el uso de los datos en la nube, etc. También muchas de las reacciones, que no obstante tienen en cuenta los datos conseguidos y los resultados que arroja su análisis. Por último, la industria 4.0 se caracteriza por tener una fuerte orientación a los clientes, ya que funciona en torno a una arquitectura diseñada para que haya un feedback continuo entre productores y clientes.
