@@ -1,5 +1,5 @@
 ---
-date: 2020-05-15T11:00:59-04:00
+date: 2020-05-16T11:00:59-04:00
 description: "Características de la Industria 4.0"
 featured_image: "/images/Caracteristica_Industria.png"
 tags: ["scene"]
