@@ -3,7 +3,7 @@ date: 2020-05-12T10:58:08-04:00
 description: "Caracteristicas principales y Ventajas de la Industria 4.0"
 featured_image: "/images/4.0.jpg"
 tags: ["scene"]
-title: "Chapter IV: Ventajas e Inconvemientes de la Industria 4.0"
+title: "Chapter IV: Ventajas e Inconvenientes de la Industria 4.0"
 ---
 
 ## Ventajas
