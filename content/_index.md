@@ -1,6 +1,8 @@
 ---
-title: "Ananke: a Hugo Theme"
-featured_image: '/images/gohugo-default-sample-hero-image.jpg'
-description: "The last theme you'll ever need. Maybe."
+title: "Grupo #3"
+featured_image: '/images/industria_4_0.jpg'
+description: "Bienvenido a mi blog de la cuarta Revolución Industrial."
+# description: "The last theme you'll ever need. Maybe."
+# "Bienvenido a mi blog  de la cuarta Revolución Industrial."
 ---
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+
