@@ -6,7 +6,7 @@
     <description>Recent content in scene on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 May 2020 10:58:08 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2020 10:58:08 -0400</lastBuildDate>
     
 	<atom:link href="https://omarmorejon.github.io/static_website_ananke/tags/scene/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Chapter I: Origenes de la Industria 4.0</title>
       <link>https://omarmorejon.github.io/static_website_ananke/post/chapter-1/</link>
-      <pubDate>Sat, 09 May 2020 10:58:08 -0400</pubDate>
+      <pubDate>Fri, 15 May 2020 10:58:08 -0400</pubDate>
       
       <guid>https://omarmorejon.github.io/static_website_ananke/post/chapter-1/</guid>
       <description>Este concepto de Industria 4.0 expresa la idea de que el mundo se encuentra en los prolegómenos de lo que podría llamarse Cuarta Revolución Industrial (o sea, en una fecha próxima a un hito importante en el desarrollo industrial, que justifique decir que se ha iniciado una nueva fase o una nueva etapa).4​ Después del desarrollo de la máquina de vapor y de la mecanización (segunda mitad del siglo XVIII), después del desarrollo de la electricidad con fines domésticos e industriales (fin del siglo XIX), y después de la automatización (siglo XX), la nueva etapa (cuarta etapa) de la transformación industrial muy posiblemente estará sustentada en la llamada fábrica inteligente, caracterizada por la interconexión de máquinas y de sistemas en el propio emplazamiento de producción, y caracterizada por un fluido intercambio de información con el exterior (con el nivel de oferta y demanda de los mercados, y/o con los clientes, y/o los competidores, y/o con otras fábricas inteligentes, etc).</description>
@@ -23,7 +23,7 @@
     <item>
       <title>Chapter III: Pilares Tecnológicos de la Industria 4.0</title>
       <link>https://omarmorejon.github.io/static_website_ananke/post/chapter-3/</link>
-      <pubDate>Sat, 09 May 2020 10:58:08 -0400</pubDate>
+      <pubDate>Wed, 13 May 2020 10:58:08 -0400</pubDate>
       
       <guid>https://omarmorejon.github.io/static_website_ananke/post/chapter-3/</guid>
       <description>Internet of Things o Internet de las Cosas: No solo los ordenadores están conectados a la red, sino que máquinas, dispositivos y objetos cotidianos nos ofrecen información y datos relevantes para un análisis posterior. Robótica avanzada y la inteligencia artificial: Máquinas creadas con el propósito de automatizar tareas, toma de decisiones e incluso aprendizaje, intentando emular el pensamiento lógico del ser humano. Sistemas para la integración vertical y horizontal: Seleccionando cada empresa una implementación interna de un servicio o proceso (vertical) o integrándose en mecanismos de cooperación u outsourcing (horizontal) Comunicación M2M(Machine to Machine): Gracias a diversas tecnologías, las máquinas se comunican intercambiando información y pudiendo realizar acciones eficientes sin la intervención humana.</description>
@@ -32,11 +32,10 @@
     <item>
       <title>Chapter IV: Ventajas e Inconvemientes de la Industria 4.0</title>
       <link>https://omarmorejon.github.io/static_website_ananke/post/chapter-4/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 12 May 2020 00:58:08 -0400</pubDate>
       
       <guid>https://omarmorejon.github.io/static_website_ananke/post/chapter-4/</guid>
-      <description>Ventajas
-  La principal ventaja de implementar este nuevo sistema está en que la empresa va a conseguir producir más a unos costes menores y optimizando en cada momento según la disponibilidad de recursos. Este aspecto es importante porque, así, se pueden mejorar los resultados a medio plazo y se evitan situaciones funestas como la rotura de stocks. Es un lugar común que, en el momento en que una empresa asume la automatización de un proceso, ya no hay vuelta atrás.</description>
+      <description>Ventajas   La principal ventaja de implementar este nuevo sistema está en que la empresa va a conseguir producir más a unos costes menores y optimizando en cada momento según la disponibilidad de recursos. Este aspecto es importante porque, así, se pueden mejorar los resultados a medio plazo y se evitan situaciones funestas como la rotura de stocks. Es un lugar común que, en el momento en que una empresa asume la automatización de un proceso, ya no hay vuelta atrás.</description>
     </item>
     
   </channel>

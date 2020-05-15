@@ -1,5 +1,5 @@
 ---
-date: 2020-05-09T10:58:08-04:00
+date: 2020-05-15T10:58:08-04:00
 description: "Origenes de la Industria 4.0"
 featured_image: "/images/Origen_Industria.png"
 tags: ["scene"]

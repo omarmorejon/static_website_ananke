@@ -1,12 +1,12 @@
 ---
-date: 2020-05-9T00:58:08-04:00
+date: 2020-05-12T00:58:08-04:00
 description: "Caracteristicas principales y Ventajas de la Industria 4.0"
 featured_image: "/images/4.0.jpg"
 tags: ["scene"]
 title: "Chapter IV: Ventajas e Inconvemientes de la Industria 4.0"
 ---
 
-- Ventajas
+## Ventajas
 
 - La principal ventaja de implementar este nuevo sistema está en que la empresa va a conseguir producir más a unos costes menores y optimizando en cada momento según la disponibilidad de recursos. Este aspecto es importante porque, así, se pueden mejorar los resultados a medio plazo y se evitan situaciones funestas como la rotura de stocks. Es un lugar común que, en el momento en que una empresa asume la automatización de un proceso, ya no hay vuelta atrás.
 
@@ -33,7 +33,7 @@ Se optimizan los niveles de calidad. La automatización de procesos permite mayo
 
 
 
-- Inconvenientes
+## Inconvenientes
 
 - Pero no todo son parabienes en la revolución industrial que vivimos. Existen ciertos inconvenientes de la Industria 4.0 a los que las organizaciones deben hacer frente. Destacan en este aspecto:
 
