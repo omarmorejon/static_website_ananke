@@ -1,5 +1,5 @@
 ---
-date: 2020-05-9T00:58:08-04:00
+date: 2020-05-10T10:58:08-04:00
 description: "Caracteristicas principales y Ventajas de la Industria 4.0"
 featured_image: "/images/4.0.jpg"
 tags: ["scene"]

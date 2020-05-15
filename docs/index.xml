@@ -12,6 +12,19 @@
     
     
     <item>
+<<<<<<< HEAD
+=======
+      <title>Chapter IV: Ventajas e Inconvemientes de la Industria 4.0</title>
+      <link>https://omarmorejon.github.io/static_website_ananke/post/chapter-4/</link>
+      <pubDate>Fri, 15 May 2020 00:58:08 -0400</pubDate>
+      
+      <guid>https://omarmorejon.github.io/static_website_ananke/post/chapter-4/</guid>
+      <description>Ventajas
+  La principal ventaja de implementar este nuevo sistema está en que la empresa va a conseguir producir más a unos costes menores y optimizando en cada momento según la disponibilidad de recursos. Este aspecto es importante porque, así, se pueden mejorar los resultados a medio plazo y se evitan situaciones funestas como la rotura de stocks. Es un lugar común que, en el momento en que una empresa asume la automatización de un proceso, ya no hay vuelta atrás.</description>
+    </item>
+    
+    <item>
+>>>>>>> 984db09bf85e1c03b502527f3d56d63d46f5221c
       <title>Chapter I: Origenes de la Industria 4.0</title>
       <link>https://omarmorejon.github.io/static_website_ananke/post/chapter-1/</link>
       <pubDate>Sat, 09 May 2020 10:58:08 -0400</pubDate>
@@ -26,7 +39,8 @@
       <pubDate>Sat, 09 May 2020 10:58:08 -0400</pubDate>
       
       <guid>https://omarmorejon.github.io/static_website_ananke/post/chapter-3/</guid>
-      <description>Internet of Things o Internet de las Cosas: No solo los ordenadores están conectados a la red, sino que máquinas, dispositivos y objetos cotidianos nos ofrecen información y datos relevantes para un análisis posterior. Robótica avanzada y la inteligencia artificial: Máquinas creadas con el propósito de automatizar tareas, toma de decisiones e incluso aprendizaje, intentando emular el pensamiento lógico del ser humano. Sistemas para la integración vertical y horizontal: Seleccionando cada empresa una implementación interna de un servicio o proceso (vertical) o integrándose en mecanismos de cooperación u outsourcing (horizontal) Comunicación M2M(Machine to Machine): Gracias a diversas tecnologías, las máquinas se comunican intercambiando información y pudiendo realizar acciones eficientes sin la intervención humana.</description>
+      <description>[]
+ Internet of Things o Internet de las Cosas: No solo los ordenadores están conectados a la red, sino que máquinas, dispositivos y objetos cotidianos nos ofrecen información y datos relevantes para un análisis posterior. Robótica avanzada y la inteligencia artificial: Máquinas creadas con el propósito de automatizar tareas, toma de decisiones e incluso aprendizaje, intentando emular el pensamiento lógico del ser humano. Sistemas para la integración vertical y horizontal: Seleccionando cada empresa una implementación interna de un servicio o proceso (vertical) o integrándose en mecanismos de cooperación u outsourcing (horizontal) Comunicación M2M(Machine to Machine): Gracias a diversas tecnologías, las máquinas se comunican intercambiando información y pudiendo realizar acciones eficientes sin la intervención humana.</description>
     </item>
     
     <item>
