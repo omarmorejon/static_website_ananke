@@ -1,7 +1,7 @@
 ---
 date: 2020-05-09T10:58:08-04:00
 description: "Origenes de la Industria 4.0"
-featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
+featured_image: "/images/Origen_Industria.png"
 tags: ["scene"]
 title: "Chapter I: Origenes de la Industria 4.0"
 ---
