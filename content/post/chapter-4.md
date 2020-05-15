@@ -1,6 +1,6 @@
 ---
-date: 2017-04-12T11:14:48-04:00
-description: "Master Jacques Coppenole"
+date: 2020-05-15T00:58:08-04:00
+description: "Caracteristicas principales y Ventajas de la Industria 4.0"
 featured_image: ""
 tags: ["scene"]
 title: "Caracteristicas principales y Ventajas de la Industria 4.0"
