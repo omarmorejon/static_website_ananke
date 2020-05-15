@@ -3,7 +3,7 @@ date: 2020-05-09T10:58:08-04:00
 description: "Origenes de la Industria 4.0"
 featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
 tags: ["scene"]
-title: "Origenes de la Industria 4.0"
+title: "Chapter I: Origenes de la Industria 4.0"
 ---
 
 Este concepto de Industria 4.0 expresa la idea de que el mundo se encuentra en los prolegómenos de lo que podría llamarse Cuarta Revolución Industrial (o sea, en una fecha próxima a un hito importante en el desarrollo industrial, que justifique decir que se ha iniciado una nueva fase o una nueva etapa).4​ Después del desarrollo de la máquina de vapor y de la mecanización (segunda mitad del siglo XVIII), después del desarrollo de la electricidad con fines domésticos e industriales (fin del siglo XIX), y después de la automatización (siglo XX), la nueva etapa (cuarta etapa) de la transformación industrial muy posiblemente estará sustentada en la llamada fábrica inteligente, caracterizada por la interconexión de máquinas y de sistemas en el propio emplazamiento de producción, y caracterizada por un fluido intercambio de información con el exterior (con el nivel de oferta y demanda de los mercados, y/o con los clientes, y/o los competidores, y/o con otras fábricas inteligentes, etc).19​
