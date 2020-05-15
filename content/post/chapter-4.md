@@ -15,3 +15,10 @@ title: "Caracteristicas principales y Ventajas de la Industria 4.0"
 - 3. Las industrias 4.0 se pueden implementar en varios ambientes de la empresa, no solo en la producción, sino también en cada trabajador como individuo, en la empresa o en el conjunto de la organización. Por lo tanto, va más allá de lo que se podía esperar de una cadena de producción al uso y permite que el cliente pueda empoderarse y solicitar el tipo de producto que le guste, por ejemplo. Se abre un mundo de posibilidades para la mejora de los procesos.
 
 - 4. Se incorporan TIC´s inteligentes, de manera que la robótica automatizada que analiza datos para funcionar en el momento ya es una realidad. Hasta ahora se utiliza en industrias de última generación, como la automovilística, pero es de esperar que este tipo de tecnologías se generalicen en los últimos años. La idea es que cualquier gerente pueda, además, dar órdenes a ese robot desde un terminal de teléfono móvil.
+
+
+- Ventajas
+
+- La principal ventaja de implementar este nuevo sistema está en que la empresa va a conseguir producir más a unos costes menores y optimizando en cada momento según la disponibilidad de recursos. Este aspecto es importante porque, así, se pueden mejorar los resultados a medio plazo y se evitan situaciones funestas como la rotura de stocks. Es un lugar común que, en el momento en que una empresa asume la automatización de un proceso, ya no hay vuelta atrás.
+
+- El segundo beneficio, más centrado en el cliente, es que las industrias 4.0 ponen prioridad a la personalización del producto, puesto que implican la superación del modelo fordista. Así, para unas zapatillas se pueden customizar las leyendas porque para la compañía será más fácil producirlas. Esto abre un mundo de posibilidades puesto que la conectividad es uno de los requisitos principales para un determinado público.
